@@ -1,2 +1,4 @@
-# Cardiovascular-Disease-Data-Analysis-Python-Power-Bi
-Prepared an informative report and dashboard about the data explaining distribution of the disease and the related factors.
+# Cardiovascular Disease-Data-Analysis(Python,Power Bi)
+
+## Problem Statement:
+Cardiovascular diseases are the leading cause of death globally. To identify the causes and to develop a system to predict heart attack in an effective manner is necessary. Analyse and create a dashboard to demonstrate the relationship between factors and CVD
